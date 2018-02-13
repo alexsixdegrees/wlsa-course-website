@@ -8,8 +8,14 @@ header {
 	margin-top: 100px;
 }
 
-/*#major-text {
-	color: rgb(0, 71, 157);
-	font-size:20px;
+#descrip {
+	margin-top:60px;
 }
-*/
+
+#cc {
+	margin-top:20px;
+}
+
+#oo {
+	margin-top: 43.2px;
+}
