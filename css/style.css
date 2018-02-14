@@ -9,13 +9,23 @@ header {
 }
 
 #descrip {
-	margin-top:60px;
+	margin-top:50px;
 }
 
-#cc {
-	margin-top:20px;
-}
 
-#oo {
+#holder {
 	margin-top: 43.2px;
+}
+
+#signin {
+	max-width: 500px;
+	margin-top: 131px;
+}
+
+#inputbox {
+	margin-top: -30px;
+}
+
+#submitbutton {
+	margin-top: 25px;
 }
