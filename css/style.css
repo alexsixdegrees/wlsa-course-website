@@ -5,8 +5,12 @@ header {
 }
 
 
-body{
+body {
 	font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 .card {
@@ -82,4 +86,14 @@ footer{
 	margin-top: 80px;
 	margin-bottom: 20px;
 	font-size:small;
+}
+
+
+/*trying to override bootstrap*/
+
+input.try #pincode-input1 {
+    -webkit-box-shadow: none; 
+    -moz-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
 }
