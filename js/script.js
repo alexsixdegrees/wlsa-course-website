@@ -12,3 +12,5 @@ $(document).ready(function() {
 $('#pincode-input1').pincodeInput({inputs:6,hidedigits:false});
 
 });
+
+
